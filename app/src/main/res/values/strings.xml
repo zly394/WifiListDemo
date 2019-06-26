@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WifiListDemo</string>
+
+    <string name="network_wifi_status_connected_no_internet">已连接，但无法访问互联网</string>
+    <string name="network_wifi_status_saved">已保存</string>
+    <string name="network_wifi_status_idle" />
+    <string name="network_wifi_status_disabled">"已停用"</string>
+    <string name="network_wifi_status_network_failure">"IP 配置失败"</string>
+    <string name="network_wifi_status_wifi_failure">"WLAN 连接失败"</string>
+    <string name="network_wifi_status_password_failure">"身份验证出现问题"</string>
+    <string name="network_wifi_status_scanning">正在扫描…</string>
+    <string name="network_wifi_status_connecting">正在连接…</string>
+    <string name="network_wifi_status_authenticating">正在进行身份验证…</string>
+    <string name="network_wifi_status_obtaining_ip_address">正在获取IP地址…</string>
+    <string name="network_wifi_status_connected">已连接</string>
+    <string name="network_wifi_status_suspended">已暂停</string>
+    <string name="network_wifi_status_disconnecting">正在断开连接…</string>
+    <string name="network_wifi_status_disconnected">已断开连接</string>
+    <string name="network_wifi_status_failed">失败</string>
+    <string name="network_wifi_status_blocked">已停用</string>
+    <string name="network_wifi_status_verifying_poor_link">暂时关闭（网络状况不佳）</string>
+</resources>
